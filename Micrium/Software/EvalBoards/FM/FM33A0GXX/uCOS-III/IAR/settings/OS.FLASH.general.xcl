@@ -1,0 +1,13 @@
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\arm\bin\armproc.dll" 
+
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\arm\bin\armjlink2.dll" 
+
+"D:\FM33xxWorkSpace\¦ÌCOS\¦ÌCOSII_III_FM33\Micrium\Software\EvalBoards\FM\FM33A0GXX\uCOS-III\IAR\FLASH\Exe\OS.out" 
+
+--plugin "C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\arm\bin\armbat.dll" 
+
+--flash_loader "C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\arm\config\flashloader\FMSH\FM33A04x.board" 
+
+
+
+
